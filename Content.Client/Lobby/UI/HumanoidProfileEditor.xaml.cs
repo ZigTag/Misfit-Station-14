@@ -229,6 +229,7 @@ namespace Content.Client.Lobby.UI
                 SetSpecies(_species[args.Id].ID);
                 UpdateHairPickers();
                 OnSkinColorOnValueChanged();
+                RefreshTraits(); // Misfit - Add trait hiding.
             };
 
             #region Skin
@@ -513,6 +514,14 @@ namespace Content.Client.Lobby.UI
 
             foreach (var trait in traits)
             {
+                // Begin Misfit - Add trait hiding
+                if (Profile?.Species is { } selectedSpecies && trait.SpeciesBlacklist.Contains(selectedSpecies))
+                {
+                    Profile = Profile?.WithoutTraitPreference(trait.ID, _prototypeManager);
+                    continue;
+                }
+                // End Misfit
+
                 if (trait.Category == null)
                 {
                     defaultTraits.Add(trait.ID);
