@@ -113,3 +113,15 @@
       state: coyote
     - sprite: Mobs/Customization/Vulpkanin/ear_markings.rsi
       state: coyote-inner
+
+# Begin Misfit additions
+- type: marking
+  id: VulpEarWolf
+  bodyPart: HeadTop
+  markingCategory: HeadTop
+  speciesRestriction: [ Vulpkanin ]
+  sprites:
+  - sprite: Mobs/Customization/Vulpkanin/ear_markings.rsi
+    state: wolf
+  - sprite: Mobs/Customization/Vulpkanin/ear_markings.rsi
+    state: wolf-inner
