@@ -1,0 +1,297 @@
+{
+  "version": 1,
+  "license": "CC-BY-SA-3.0",
+  "copyright": "Taken from Monkestation2.0 at https://github.com/KittyNoodle/Monkestation2.0/blob/608ffd5f1ca303c96ae82050cabafd6754974a76/monkestation/icons/mob/species/ethereal/bodyparts.dmi , foot states added by Zephyrpak for Misfit Station",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "ethereal_head_m",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "ethereal_torso_m",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "ethereal_r_arm",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "ethereal_l_arm",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "ethereal_r_hand",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "ethereal_l_hand",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "ethereal_r_leg",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "ethereal_l_leg",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "ethereal_head_f",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+	{
+      "name": "ethereal_l_foot",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+	{
+      "name": "ethereal_r_foot",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ]
+      ]
+    }
+  ]
+}
