@@ -20,7 +20,7 @@
   sprites:
     Special: MobHumanoidAnyMarking
     Head: MobEtherealHead
-    Hair: MobSlimeMarkingFollowSkin
+    Hair: MobHumanoidMarkingFollowSkin
     FacialHair: MobHumanoidAnyMarking
     Snout: MobHumanoidAnyMarking
     UndergarmentTop: MobHumanoidAnyMarking
@@ -157,3 +157,7 @@
   baseSprite:
     sprite: _Misfit/Mobs/Species/Ethereal/parts.rsi
     state: ethereal_r_foot
+
+- type: humanoidBaseSprite
+  id: MobHumanoidMarkingFollowSkin
+  markingsMatchSkin: true
