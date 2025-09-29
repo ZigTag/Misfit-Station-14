@@ -6,5 +6,6 @@ namespace Content.Shared._Misfit.Species.Components;
 [RegisterComponent]
 public sealed partial class EtherealColorComponent : Component
 {
-
+    [DataField]
+    public Color InitialColor;
 }
