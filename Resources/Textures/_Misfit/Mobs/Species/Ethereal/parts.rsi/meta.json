@@ -60,6 +60,32 @@
       ]
     },
     {
+      "name": "ethereal_torso_f",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+    {
       "name": "ethereal_r_arm",
       "directions": 4,
       "delays": [
@@ -269,6 +295,32 @@
     },
 	{
       "name": "ethereal_r_foot",
+      "directions": 4,
+      "delays": [
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ],
+        [
+          0.2,
+          0.2,
+          0.1
+        ]
+      ]
+    },
+      {
+      "name": "full",
       "directions": 4,
       "delays": [
         [
