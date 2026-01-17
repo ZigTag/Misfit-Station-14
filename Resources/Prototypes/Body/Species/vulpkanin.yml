@@ -38,60 +38,10 @@
     - HeadSide
     - FacialHair
     - Hair
-    markingsDisplacement:
-      Hair:
-        sizeMaps:
-          32:
-            sprite: Mobs/Species/Vulpkanin/displacement.rsi
-            state: hair
+    # Misfit - deleted displacement maps
   - type: Inventory
     speciesId: vulpkanin
-    displacements:
-      jumpsuit:
-        sizeMaps:
-          32:
-            sprite: Mobs/Species/Vulpkanin/displacement.rsi
-            state: jumpsuit
-      back:
-        sizeMaps:
-          32:
-            sprite: Mobs/Species/Vulpkanin/displacement.rsi
-            state: back
-      outerClothing:
-        sizeMaps:
-          32:
-            sprite: Mobs/Species/Vulpkanin/displacement.rsi
-            state: outerwear
-      gloves:
-        sizeMaps:
-          32:
-            sprite: Mobs/Species/Vulpkanin/displacement.rsi
-            state: hand
-      shoes:
-        sizeMaps:
-          32:
-            sprite: Mobs/Species/Vulpkanin/displacement.rsi
-            state: shoes
-      head:
-        sizeMaps:
-          32:
-            sprite: Mobs/Species/Vulpkanin/displacement.rsi
-            state: head
-      neck:
-        sizeMaps:
-          32:
-            sprite: Mobs/Species/Vulpkanin/displacement.rsi
-            state: neck
-      eyes:
-        sizeMaps:
-          32:
-            sprite: Mobs/Species/Vulpkanin/displacement.rsi
-            state: eyes
-      belt:
-        sizeMaps:
-          32:
-            sprite: Mobs/Species/Vulpkanin/displacement.rsi
-            state: belt
+    # Misfit - deleted displacement maps
 
 - type: entity
   parent:
@@ -100,8 +50,8 @@
   id: MobVulpkanin
   name: Urist McArfArf
   components:
-  - type: MessyDrinker
-    spillChance: 0.33
+  # - type: MessyDrinker # Misfit - Removed messy drinker. Goofy gimmick.
+    # spillChance: 0.33
   - type: Speech
     speechSounds: Vulpkanin
     speechVerb: Vulpkanin
@@ -175,7 +125,7 @@
   abstract: true
   components:
   - type: Sprite
-    sprite: Mobs/Species/Vulpkanin/parts.rsi
+    sprite: _Misfit/Mobs/Species/Vulpkanin/parts.rsi # Misfit - Change to Paradise based sprites
 
 - type: entity
   parent: [ OrganBaseTorso, OrganVulpkaninExternal ]
