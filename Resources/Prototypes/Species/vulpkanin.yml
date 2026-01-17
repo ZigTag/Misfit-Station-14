@@ -6,7 +6,7 @@
   sprites: MobVulpkaninSprites
   defaultSkinTone: "#ffffff" # Misfit - Changed from 5a3f2d to ffffff
   markingLimits: MobVulpkaninMarkingLimits
-  dollPrototype: MobVulpkaninDummy
+  dollPrototype: AppearanceVulpkanin
   skinColoration: VulpkaninColors
   maleFirstNames: names_vulpkanin_male
   femaleFirstNames: names_vulpkanin_female
