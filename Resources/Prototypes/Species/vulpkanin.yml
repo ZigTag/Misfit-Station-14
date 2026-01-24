@@ -3,9 +3,7 @@
   name: species-name-vulpkanin
   roundStart: true
   prototype: MobVulpkanin
-  sprites: MobVulpkaninSprites
   defaultSkinTone: "#ffffff" # Misfit - Changed from 5a3f2d to ffffff
-  markingLimits: MobVulpkaninMarkingLimits
   dollPrototype: AppearanceVulpkanin
   skinColoration: VulpkaninColors
   maleFirstNames: names_vulpkanin_male
