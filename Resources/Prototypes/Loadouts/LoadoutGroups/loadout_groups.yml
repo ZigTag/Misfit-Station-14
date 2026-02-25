@@ -73,6 +73,7 @@
   - EmergencyNitrogen
   - EmergencyOxygen
   - LoadoutSpeciesVoxNitrogen
+  - EmergencyBoxMKC # starcup
 
 # nitrogen or oxygen tank, depending on what your species needs
 - type: loadoutGroup
@@ -554,6 +555,7 @@
   - EmergencyNitrogenClown
   - EmergencyOxygenClown
   - LoadoutSpeciesVoxNitrogen
+  - EmergencyBoxMKC # starcup
 
 - type: loadoutGroup
   id: ClownJobTrinkets
@@ -618,6 +620,7 @@
   - EmergencyOxygenMime
   - EmergencySpeciesMothMime
   - LoadoutSpeciesVoxNitrogen
+  - EmergencyBoxMKC # starcup
 
 #- type: loadoutGroup
 #  id: MimeJobTrinkets
@@ -964,6 +967,7 @@
   - EmergencyNitrogenExtended
   - EmergencyOxygenExtended
   - LoadoutSpeciesVoxNitrogen
+  - EmergencyBoxMKC # starcup
 
 # Science
 - type: loadoutGroup
@@ -1297,6 +1301,7 @@
   - EmergencyNitrogenSecurity
   - EmergencyOxygenSecurity
   - LoadoutSpeciesVoxNitrogen
+  - EmergencyBoxMKC # starcup
 
 # Wildcards
 - type: loadoutGroup
@@ -1335,6 +1340,7 @@
   - EmergencyNitrogenSyndicate
   - EmergencyOxygenSyndicate
   - LoadoutSpeciesVoxNitrogen
+  - EmergencyBoxMKC # starcup
 
 - type: loadoutGroup
   id: SurvivalMilitaryDouble
