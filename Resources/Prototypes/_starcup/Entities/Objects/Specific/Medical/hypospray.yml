@@ -22,7 +22,7 @@
           Quantity: 15
 
 - type: entity
-  parent: [ChemicalMedipen, BaseTraitorContraband]
+  parent: ChemicalMedipen # Misfit - Remove Contraband
   id: CombatMedipenSilicon
   name: silicon combat medipen
   description: A single-dose medipen containing special nanites to rapidly repair most forms of damage.
@@ -59,7 +59,7 @@
     price: 1500
 
 - type: entity
-  parent: [ BaseTraitorContraband, ChemicalMedipen ]
+  parent: ChemicalMedipen # Misfit - Remove Contraband
   id: OverclockInjector
   name: overclock injector
   description: An injector containing a large number of power-boosting nanites. Effects last for about 60 seconds.
@@ -98,7 +98,7 @@
     price: 1500
 
 - type: entity
-  parent: [ BaseTraitorContraband, ChemicalMedipen ]
+  parent: ChemicalMedipen # Misfit - Remove Contraband
   id: OverclockInjectorMini
   name: overclock microinjector
   description: An injector containing a small number of power-boosting nanites. Effects last for about 30 seconds.

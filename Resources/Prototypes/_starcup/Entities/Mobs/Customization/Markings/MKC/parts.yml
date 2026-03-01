@@ -2,7 +2,7 @@
 
 - type: marking
   id: MobMKCHeadDefault
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Species/MKC/parts.rsi
@@ -92,7 +92,7 @@
 
 - type: marking
   id: CyberLimbsMarkingBishopMonitor
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -102,7 +102,7 @@
 
 - type: marking
   id: CyberLimbsMarkingBishopHead
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -112,7 +112,7 @@
 
 - type: marking
   id: CyberLimbsMarkingBishopHeadAlt
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -120,7 +120,7 @@
 
 - type: marking
   id: CyberLimbsMarkingHesphiastosMonitor
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -130,7 +130,7 @@
 
 - type: marking
   id: CyberLimbsMarkingHesphiastosHead
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -142,7 +142,7 @@
 
 - type: marking
   id: CyberLimbsMarkingMorpheusMonitor
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -150,7 +150,7 @@
 
 - type: marking
   id: CyberLimbsMarkingMorpheusHead
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -158,7 +158,7 @@
 
 - type: marking
   id: CyberLimbsMarkingShellguardMonitor
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -168,7 +168,7 @@
 
 - type: marking
   id: CyberLimbsMarkingShellguardHead
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -178,7 +178,7 @@
 
 - type: marking
   id: CyberLimbsMarkingWardtakahashiMonitor
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -188,7 +188,7 @@
 
 - type: marking
   id: CyberLimbsMarkingWardtakahashiHead
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -196,7 +196,7 @@
 
 - type: marking
   id: CyberLimbsMarkingWardtakahashiHeadAlt
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -204,7 +204,7 @@
 
 - type: marking
   id: CyberLimbsMarkingXionMonitor
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -214,7 +214,7 @@
 
 - type: marking
   id: CyberLimbsMarkingXionHead
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi
@@ -224,7 +224,7 @@
 
 - type: marking
   id: CyberLimbsMarkingZenghuHead
-  bodyPart: HeadBase
+  bodyPart: Head # Misfit - BaseHead -> Head
   groupWhitelist: [MKC]
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_heads.rsi

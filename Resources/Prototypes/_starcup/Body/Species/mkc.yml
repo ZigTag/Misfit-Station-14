@@ -11,13 +11,15 @@
       limit: 1
       onlyGroupWhitelisted: false
       required: false
-    enum.HumanoidVisualLayers.HeadBase:
+    # Start Misfit - Add MKCs
+    enum.HumanoidVisualLayers.Head:
       limit: 1
       required: true
       default: [ MobMKCHeadDefault ]
-    enum.HumanoidVisualLayers.Head:
-      limit: 1
-      required: false
+    enum.HumanoidVisualLayers.Eyes:
+        limit: 1
+        required: false
+    # End Misfit
     enum.HumanoidVisualLayers.HeadTop:
       limit: 1
       required: false

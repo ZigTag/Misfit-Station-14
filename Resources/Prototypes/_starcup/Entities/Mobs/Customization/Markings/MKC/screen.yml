@@ -1,7 +1,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenStatic
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_static
@@ -9,7 +9,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenBlue
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_blue
@@ -17,7 +17,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenBreakout
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_breakout
@@ -25,7 +25,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenEight
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_eight
@@ -33,7 +33,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenGoggles
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_goggles-1
@@ -43,7 +43,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenExclaim
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_exclaim
@@ -51,7 +51,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenHeart
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_heart
@@ -59,7 +59,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenMonoeye
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_monoeye
@@ -67,7 +67,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenNature
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_nature
@@ -75,7 +75,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenOrange
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_orange
@@ -83,7 +83,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenPink
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_pink
@@ -91,7 +91,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenQuestion
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_question
@@ -99,7 +99,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenShower
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_shower
@@ -107,7 +107,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenYellow
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_yellow
@@ -115,7 +115,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenScroll
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_scroll
@@ -123,7 +123,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenConsole
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_console
@@ -131,7 +131,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenRgb
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_rgb
@@ -139,7 +139,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenGlider
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_glider
@@ -147,7 +147,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenRainbowhoriz
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_rainbowhoriz
@@ -155,7 +155,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenBsod
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_bsod
@@ -163,7 +163,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenRedtext
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_redtext
@@ -171,7 +171,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenSinewave
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_sinewave
@@ -179,7 +179,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenSquarewave
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_squarewave
@@ -187,7 +187,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenEcgwave
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_ecgwave
@@ -195,7 +195,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenEyes
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_eyes
@@ -203,7 +203,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenEyestall
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_eyestall
@@ -211,7 +211,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenEyesangry
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_eyesangry
@@ -219,7 +219,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenLoading
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_loading
@@ -227,7 +227,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenWindowsxp
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_windowsxp
@@ -235,7 +235,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenTetris
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_tetris
@@ -243,7 +243,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenTv
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_tv
@@ -251,7 +251,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenTextdrop
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_textdrop
@@ -259,7 +259,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenStars
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_stars
@@ -267,7 +267,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenRainbowdiag
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_rainbowdiag
@@ -275,7 +275,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenBlank
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_blank
@@ -283,7 +283,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenSmile
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_smile
@@ -291,7 +291,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenFrown
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_frown
@@ -299,7 +299,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenRing
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_ring
@@ -307,7 +307,7 @@
 - type: marking
   groupWhitelist: [MKC]
   id: ScreenL
-  bodyPart: Head
+  bodyPart: Eyes # Misfit - Head -> Eyes
   sprites:
   - sprite: _starcup/Mobs/Customization/MKC/mkc_screens.rsi
     state: screen_l
