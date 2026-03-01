@@ -3,7 +3,7 @@
   name: trait-uncloneable-name
   description: trait-uncloneable-desc
   category: Disabilities
-  excludedSpecies:
-  - IPC
+  speciesBlacklist:
+  - MKC
   components:
   - type: Uncloneable
