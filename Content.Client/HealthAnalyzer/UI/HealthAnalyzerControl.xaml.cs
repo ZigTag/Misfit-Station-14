@@ -80,7 +80,8 @@ public sealed partial class HealthAnalyzerControl : BoxContainer
         NameLabel.SetMessage(name);
 
         // Misfit - Change species identifier to have Synthetic prefix
-        var species = _entityManager.TryGetComponent<HumanoidProfileComponent>(target.Value,
+        var species =
+            _entityManager.TryGetComponent<HumanoidProfileComponent>(target.Value,
                 out var humanoidComponent)
                 ? Loc.GetString(_prototypes.Index(humanoidComponent.Species).Name)
                 : Loc.GetString("health-analyzer-window-entity-unknown-species-text");
