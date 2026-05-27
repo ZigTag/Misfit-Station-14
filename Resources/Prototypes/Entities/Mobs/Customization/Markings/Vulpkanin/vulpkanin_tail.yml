@@ -143,14 +143,6 @@
 
 # Begin Misfit additions
 - type: marking
-  id: VulpTailCoyote # This specifically was in the upstream folder but unused for some... reason
-  bodyPart: Tail
-  groupWhitelist: [ Vulpkanin ]
-  sprites:
-  - sprite: Mobs/Customization/Vulpkanin/tail_markings.rsi
-    state: coyote
-
-- type: marking
   id: VulpTailFox
   bodyPart: Tail
   groupWhitelist: [ Vulpkanin ]
