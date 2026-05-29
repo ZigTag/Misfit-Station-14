@@ -28,8 +28,10 @@
     damageContainers:
     - HumanoidSilicon
     damage:
-      groups:
-        Brute: -15
+      types: # Misfit - groups>types
+        Blunt: -15
+        Slash: -15
+        Piercing: -15
     healingBeginSound:
       path: "/Audio/Machines/lightswitch.ogg"
       params:

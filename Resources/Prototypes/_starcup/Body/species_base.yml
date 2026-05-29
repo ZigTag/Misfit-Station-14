@@ -19,12 +19,14 @@
   - type: PassiveDamage
     allowedStates:
     - Alive
-    damageCap: 20
+#    damageCap: 20 # Misfit - Doesn't exist anymore
     damage:
       types:
         Heat: -0.07
-      groups:
-        Brute: -0.07
+        # Misfit - Enumerate Brute group
+        Blunt: -0.07
+        Slash: -0.07
+        Piercing: -0.07
   - type: Fingerprint
   - type: Blindable
   - type: Temperature
@@ -64,8 +66,9 @@
     - AnomalyHost
     - SiliconEmotes # added
   - type: Damageable
-    damageContainer: HumanoidSilicon
     damageModifierSet: HumanoidSilicon
+  - type: Injurable # Misfit - Move damage container to Injurable
+    damageContainer: HumanoidSilicon
   - type: ZombieImmune
   - type: Deathgasp
     prototype: SiliconDeathgasp

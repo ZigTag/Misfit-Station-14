@@ -17,8 +17,8 @@
       required: true
       default: [ MobMKCHeadDefault ]
     enum.HumanoidVisualLayers.Eyes:
-        limit: 1
-        required: false
+      limit: 1
+      required: false
     # End Misfit
     enum.HumanoidVisualLayers.HeadTop:
       limit: 1

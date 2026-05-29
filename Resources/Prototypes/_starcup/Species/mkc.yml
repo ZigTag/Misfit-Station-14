@@ -11,5 +11,6 @@
   naming: FirstDashLast
   sexes:
   - Unsexed
-  minHeight: 0.85
-  maxHeight: 1.05
+# Misfit - No scaling in wizden
+#  minHeight: 0.85
+#  maxHeight: 1.05

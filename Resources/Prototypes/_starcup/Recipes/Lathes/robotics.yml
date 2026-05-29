@@ -1,7 +1,7 @@
 - type: latheRecipe
   id: MedkitSilicon
   result: MedkitSilicon
-  name: lathe-recipe-MedkitSilicon-name
+#  name: lathe-recipe-MedkitSilicon-name # No FTL
   completetime: 2
   materials:
     Plastic: 300

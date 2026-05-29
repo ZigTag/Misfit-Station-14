@@ -7,20 +7,21 @@
   cost:
     Telecrystal: 2
   categories:
-  - UplinkChemicalsNT
+  - UplinkChemicals # Misfit - UplinkChemicalsNT>UplinkChemicals
 
 - type: listing
+  abstract: true # Misfit - Disable this one due to missing StimkitFilledNT
   id: UplinkStimkitNT
   name: uplink-stimkit-name
   description: uplink-stimkit-desc
-  productEntity: StimkitFilledNT
+#  productEntity: StimkitFilledNT
   discountCategory: rareDiscounts
   discountDownTo:
     Telecrystal: 3
   cost:
     Telecrystal: 5
   categories:
-  - UplinkChemicalsNT
+  - UplinkChemicals # Misfit - UplinkChemicalsNT>UplinkChemicals
 
 - type: listing
   id: UplinkOverclockKitNT
@@ -31,4 +32,4 @@
   cost:
     Telecrystal: 5
   categories:
-  - UplinkChemicalsNT
+  - UplinkChemicals # Misfit - UplinkChemicalsNT>UplinkChemicals

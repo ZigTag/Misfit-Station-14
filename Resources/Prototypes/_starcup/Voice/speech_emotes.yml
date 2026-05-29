@@ -7,7 +7,6 @@
 - type: emote
   id: Boop
   name: chat-emote-name-boop
-  icon: _DV/Interface/Emotes/ecg.png # DeltaV - Added icon
   category: Vocal
   whitelist:
     # begin starcup: allow cyborgs to use mkc emotes
